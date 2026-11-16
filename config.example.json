@@ -1,0 +1,12 @@
+{
+  "provider": "ollama",
+  "ollama_url": "http://127.0.0.1:11434",
+  "ollama_model": "gemma3:4b",
+  "api_base": "",
+  "api_key": "",
+  "api_model": "",
+  "port": 8765,
+  "offset_x": 0,
+  "offset_y": 0,
+  "browsers": ["chrome.exe", "msedge.exe"]
+}
