@@ -5,6 +5,11 @@ uygulaması. Artıya tıklayınca metnin **Türkçesini**, **açıklamasını** 
 soruysa **cevabını** küçük bir panelde gösterir. Yapay zeka kendi bilgisayarınızda
 (ekran kartınızda) çalışır; ücretli API gerekmez.
 
+![Artı Not: tarayıcıdaki metinlerin sonunda + işaretleri ve yanıt paneli](docs/onizleme.png)
+
+*Temsili görseldir. Uygulama ekran yakalamadan hariç tutulduğu için gerçek ekran
+görüntüsü alındığında artılar ve panel görüntüde çıkmaz.*
+
 Yabancı dilde belge, e-posta ya da web sayfası okurken ve müşteri toplantılarında
 ekran paylaşırken kendi notlarınızın karşı tarafa yansımaması için tasarlandı.
 
